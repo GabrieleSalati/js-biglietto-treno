@@ -20,3 +20,4 @@ else {
 
 console.log(price);
 
+document.getElementById("result").innerHTML = price;
