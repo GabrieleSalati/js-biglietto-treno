@@ -1,0 +1,1 @@
+const tripLenght = prompt("Quanti km e' lungo il tuo viaggio?")
